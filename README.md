@@ -1,2 +1,2 @@
 # assignment1
-simple visualization task
+Simple visualization task.
